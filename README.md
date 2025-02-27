@@ -1,4 +1,5 @@
 =============================
+QR code Generator on Python
 =============================
 
 Generate QR codes.
@@ -12,9 +13,6 @@ For more image functionality, install qrcode with the ``pil`` dependency so
 that pillow_ is installed and can be used for generating images::
 
     pip install "qrcode[pil]"
-
-.. _pypng: https://pypi.python.org/pypi/pypng
-.. _pillow: https://pypi.python.org/pypi/Pillow
 
 
 Usage
