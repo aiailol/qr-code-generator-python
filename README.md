@@ -40,7 +40,7 @@ Using in Python
 
 You can also generate QR codes directly in your Python code using the provided function:
 
-.. code:: python
+Example:
 
     from qr_generator import generate_qr  
     generate_qr("https://example.com", "examples/example_qr.png")
