@@ -1,6 +1,6 @@
-=============================
+
 QR code Generator on Python
-=============================
+
 
 Generate QR codes.
 
